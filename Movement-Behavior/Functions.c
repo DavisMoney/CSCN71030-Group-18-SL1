@@ -4,8 +4,6 @@ Date:	26-Mar-2023
 Desc:	Hold what each function does from the code
 ********************************************************/
 
-
-
 #include "Movement-Behavior.h"
 
 void GameStartup() {
