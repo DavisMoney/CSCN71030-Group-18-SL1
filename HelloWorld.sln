@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HighscoreModule", "HighscoreModule\HighscoreModule.vcxproj", "{9AAD826E-5113-4B18-B0E5-B60DC1B6592A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Movement-Behavior", "Movement-Behavior\Movement-Behavior.vcxproj", "{DA5D6E9B-4A73-4D1D-A338-D607F25B20AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{9AAD826E-5113-4B18-B0E5-B60DC1B6592A}.Release|x64.Build.0 = Release|x64
 		{9AAD826E-5113-4B18-B0E5-B60DC1B6592A}.Release|x86.ActiveCfg = Release|Win32
 		{9AAD826E-5113-4B18-B0E5-B60DC1B6592A}.Release|x86.Build.0 = Release|Win32
+		{DA5D6E9B-4A73-4D1D-A338-D607F25B20AB}.Debug|x64.ActiveCfg = Debug|x64
+		{DA5D6E9B-4A73-4D1D-A338-D607F25B20AB}.Debug|x64.Build.0 = Debug|x64
+		{DA5D6E9B-4A73-4D1D-A338-D607F25B20AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA5D6E9B-4A73-4D1D-A338-D607F25B20AB}.Debug|x86.Build.0 = Debug|Win32
+		{DA5D6E9B-4A73-4D1D-A338-D607F25B20AB}.Release|x64.ActiveCfg = Release|x64
+		{DA5D6E9B-4A73-4D1D-A338-D607F25B20AB}.Release|x64.Build.0 = Release|x64
+		{DA5D6E9B-4A73-4D1D-A338-D607F25B20AB}.Release|x86.ActiveCfg = Release|Win32
+		{DA5D6E9B-4A73-4D1D-A338-D607F25B20AB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
