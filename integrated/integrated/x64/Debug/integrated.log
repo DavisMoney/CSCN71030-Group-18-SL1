@@ -1,6 +1,0 @@
-﻿  main.c
-C:\Users\admin\Desktop\conestoga _ jai\sem 2\team based software\sample code\all code\integrated\integrated\main.c(16,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\admin\Desktop\conestoga _ jai\sem 2\team based software\sample code\all code\integrated\integrated\main.c(32,18): warning C4020: 'Move': too many actual parameters
-C:\Users\admin\Desktop\conestoga _ jai\sem 2\team based software\sample code\all code\integrated\integrated\main.c(53,13): warning C4013: 'check_collision' undefined; assuming extern returning int
-main.obj : error LNK2019: unresolved external symbol check_collision referenced in function main
-C:\Users\admin\Desktop\conestoga _ jai\sem 2\team based software\sample code\all code\integrated\x64\Debug\integrated.exe : fatal error LNK1120: 1 unresolved externals
