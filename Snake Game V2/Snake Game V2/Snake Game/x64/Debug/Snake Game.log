@@ -1,0 +1,8 @@
+﻿  allmod.c
+  main.c
+C:\Users\alimm\OneDrive\Desktop\CSCN71030-Group-18-SL1-master\CSCN71030-Group-18-SL1-master\Snake Game\main.c(51,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\alimm\OneDrive\Desktop\CSCN71030-Group-18-SL1-master\CSCN71030-Group-18-SL1-master\Snake Game\main.c(51,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\alimm\OneDrive\Desktop\CSCN71030-Group-18-SL1-master\CSCN71030-Group-18-SL1-master\Snake Game\main.c(51,13): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\alimm\OneDrive\Desktop\CSCN71030-Group-18-SL1-master\CSCN71030-Group-18-SL1-master\Snake Game\main.c(51,13): message : this argument is used as a buffer size
+  Generating Code...
+  Snake Game.vcxproj -> C:\Users\alimm\OneDrive\Desktop\CSCN71030-Group-18-SL1-master\CSCN71030-Group-18-SL1-master\x64\Debug\Snake Game.exe
